@@ -1,0 +1,87 @@
+body{
+    font-family: poppins;
+}
+.container{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+}
+
+
+.contant-area .main-title{
+    border-left: 4px solid #ff5959;
+}
+
+.contant-area .main-title{
+    font-family: yeseva one;
+    font: size 60px;
+    margin: 0;
+    padding-left: 7px;
+    
+}
+.orange-color{
+    color: orange;
+}
+
+.contant-area p{
+    font-size: 18px;
+}
+button{
+    background-color: #ff5959;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 8px;
+    margin-bottom: 20px;
+}
+img{
+    width: 60%;
+    padding: 10px;
+}
+.center{
+    text-align: center;
+    .heder-section{
+        display: flex;
+    }
+}
+.first-illistrator{
+    width: 30%;
+    background-color: rgba(132, 153, 153, 0.308);
+    margin: 20px;
+    padding: 15px;
+    border-radius: 12px;
+}
+.secand-illistrator{
+     width: 30%;
+      background-color:rgba(104, 61, 69, 0.24);
+    margin: 20px;
+    padding: 15px;
+    border-radius: 12px;
+
+}
+.third-illistrator{
+     width: 30%;
+      background-color:rgba(107, 80, 72, 0.267);
+    margin: 20px;
+    padding: 15px;
+    border-radius: 12px;
+
+}
+
+.image-coding{
+    width: 100%;
+    padding-left:80px;
+
+}
+.last-section{
+    background-color:rgb(3, 3, 20);
+    text-align: center;
+    color: white;
+    
+    
+    }
+    .color{
+        color: rgb(198, 198, 204);
+        padding: 10px 15px;
+         font-family: "Poppins", sans-serif;
+    }
